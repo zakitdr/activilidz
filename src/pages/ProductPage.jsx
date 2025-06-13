@@ -1,0 +1,1 @@
+export default function ProductPage() { return <div className='p-8'>Page produit</div>; }

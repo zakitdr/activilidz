@@ -1,0 +1,1 @@
+export default function Confirmation() { return <div className='p-8'>Commande confirmée ✅</div>; }

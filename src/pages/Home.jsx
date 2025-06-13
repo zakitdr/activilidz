@@ -1,0 +1,1 @@
+export default function Home() { return <div className='p-8'>Accueil du site 🚀</div>; }
